@@ -24,7 +24,7 @@ Currently preparing for tech interviews and actively seeking data science intern
 - 🐾 **Pet Health Monitoring System:** Smart IoT-based belt with sensors + React Native App
 
 ## 🌐 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/bhaveshnikam09)
+- [LinkedIn][(https://www.linkedin.com/in/bhaveshnikam09)](https://www.linkedin.com/in/bhavesh-nikam-375926277/)
 - [GitHub](https://github.com/BhaveshNikam09)
 
 ## 🎉 Fun Facts & Hobbies
