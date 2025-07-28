@@ -19,9 +19,8 @@ Currently preparing for tech interviews and actively seeking data science intern
 - 🏠 **House Price Prediction:** Regression model with Random Forest, R² = 0.77  
 - 💳 **Credit Card Default Prediction:** Classification with SMOTE, Random Forest, and Shiny Web App  
 - 🐶 **Dog vs Cat Classification:** Deep Learning with image augmentation and CNNs  
-- 📈 **Sales Forecast System:** MAE: 2046.80 | RMSE: 17983.73 | R² Score: 0.667  
+- 📈 **Sales Forecast System:** MAE: 2046.80 | RMSE: 17983.73 | R² Score: 0.859 
 - 🎯 **Custom Object Detection System:** Built using YOLOv5 and Detectron2, trained on self-driving dataset  
-- 🐾 **Pet Health Monitoring System:** Smart IoT-based belt with sensors + React Native App
 
 ## 🌐 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/bhavesh-nikam-375926277/)
