@@ -17,7 +17,7 @@
 
 GenAI engineer with hands-on experience building and deploying **LLM-powered applications** — RAG pipelines, multimodal AI tools, and automated AI agents — using both commercial APIs (Google Gemini, OpenAI) and open-source models (Hugging Face, Llama-compatible frameworks).
 
-- 🔭 Currently working as a **Technical Analyst Intern** in FinTech at Netwin Systems, Nashik
+- 🔭 Currently working as a **Technical Analyst Intern**  at Netwin Systems and Softwares, Nashik
 - 📄 **Published Researcher** — paper on *CodeSage: AI Code Reviewer with PR Assistant* in IISTJ (Vol. 2, Issue 5, May 2026)
 - 🏆 **Top 110 of 17,000+** nationally in Spark-Wars 4.0 (Apache Spark & Databricks)
 - 💡 Passionate about building AI tools that actually ship and solve real problems
@@ -103,7 +103,7 @@ RAG pipeline for natural-language Q&A over 200+ page multi-PDF corpora.
 
 ## 💼 Experience
 
-**Technical Analyst Intern — FinTech Domain** *(Jan 2026 – Present)*  
+**Technical Analyst Intern** *(Jan 2026 – Present)*  
 Netwin Systems and Softwares, Nashik
 - Profiled and validated **1M+ financial transaction records** using SQL & Python — reduced data inconsistency by ~30%
 - Rewrote SQL integrity-check queries using window functions — reduced validation runtime by **35%**
