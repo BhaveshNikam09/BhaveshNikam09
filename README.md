@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Machine Learning Engineer (Gen AI) · LLM Applications · MLOps</b><br/>
-  <sub>Pune, India · Final-Year B.Tech AI/ML @ Sandip University (CGPA 9.66/10)</sub>
+  <sub>Pune, India ·  B.Tech AI/ML @ Sandip University (CGPA 8.86/10)</sub>
 </p>
 
 <p align="center">
